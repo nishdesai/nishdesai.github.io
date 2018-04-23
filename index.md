@@ -11,7 +11,7 @@ I am an engineer and researcher experienced in modern machine learning and artif
 * [On Lyapunov exponents and adversarial perturbation](https://arxiv.org/abs/1802.06927) - CVPR 2018 Workshop *The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security*
 * [An Anytime Algorithm for Task and Motion MDPs ](https://arxiv.org/abs/1802.05835)
 * [Uncertain Reward-Transition MDPs for Negotiable Reinforcement Learning](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-230.pdf) - Masters thesis.
-* [Do Steph Curry and Klay Thompson Have Hot Hands?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2984615) - Work eatured in a Numberphile Youtube video, linked below.
+* [Do Steph Curry and Klay Thompson Have Hot Hands?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2984615) - Work featured in a Numberphile Youtube video, linked below.
 
 <center>
 <iframe width="400" height="225" src="https://www.youtube.com/embed/bPZFQ6i759g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

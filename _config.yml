@@ -20,6 +20,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _nishant_desai
 github_username:  nishdesai
+linkedin_username: nishant-desai-a4782481
+google_scholar_username: 2QiknQMAAAAJ
+
+google_analytics: UA-118026461-1
 
 # Build settings
 markdown: kramdown
@@ -27,7 +31,10 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
-logo: /imgs/face.jpg
+logo: /assets/img/face.jpg
+
+repository: nishdesai/nishdesai.github.io
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
