@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Nishant Desai
+author: Nishant Desai
 email: nishantdesai@berkeley.edu
 description: Quietly Hoping for a Safe AI Future
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -34,6 +35,9 @@ plugins:
 logo: /assets/img/face.jpg
 
 repository: nishdesai/nishdesai.github.io
+
+titles_from_headings:
+  enabled: false
 
 
 # Exclude from processing.
