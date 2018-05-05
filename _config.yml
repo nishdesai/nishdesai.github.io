@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _nishant_desai
 github_username:  nishdesai
-linkedin_username: nishant-desai-a4782481
+linkedin_username: nish-desai
 google_scholar_username: 2QiknQMAAAAJ
 
 google_analytics: UA-118026461-1
