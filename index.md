@@ -4,7 +4,7 @@ layout: main
 
 ## About
 
-I am an engineer and researcher experienced in modern machine learning and artificial intelligence techniques. I was previously a student at UC Berkeley, where I completed my B.A. in Computer Science and Statistics and my M.S. in Computer Science. While at Berkeley, I was associated with the [Berkeley Artificial Intelligence Research (BAIR) Lab](https://bair.berkeley.edu) and the [Center for Human-Compatible AI (CHAI)](https://humancompatible.ai/) and worked primarily on problems in AI Alignment. I've also done research in problems in computer vision, robot planning, and sports statistics. 
+I am an engineer and researcher experienced in modern machine learning and artificial intelligence techniques. I was previously a student at UC Berkeley, where I completed my B.A. in Computer Science and Statistics and my M.S. in Computer Science. While at Berkeley, I was associated with the [Berkeley Artificial Intelligence Research (BAIR) Lab](http://bair.berkeley.edu) and the [Center for Human-Compatible AI (CHAI)](https://humancompatible.ai/) and worked primarily on problems in AI Alignment. I've also done research in problems in computer vision, robot planning, and sports statistics. 
 
 ## Publications
 
