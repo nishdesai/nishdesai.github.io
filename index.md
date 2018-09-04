@@ -8,6 +8,9 @@ I am an engineer and researcher experienced in modern machine learning and artif
 
 ## Publications
 
+* **Negotiable Reinforcement Learning for Pareto Optimal Sequential Decision-Making**  
+To appear in Neural Information Processing Systems (NIPS) 2018.
+
 * **On Lyapunov exponents and adversarial perturbation**  
 In CVPR 2018 Workshop *The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security*  
 [[Proceedings]](https://vision.soic.indiana.edu/bright-and-dark-workshop-2018/cvcops_2018_extended_abstracts/chaos_theory_deep_learning.pdf) 
